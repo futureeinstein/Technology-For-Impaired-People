@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048860986791",
+    "firebase_url": "https://tipapplication-5e879-default-rtdb.firebaseio.com",
+    "project_id": "tipapplication-5e879",
+    "storage_bucket": "tipapplication-5e879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048860986791:android:d659b732b50dc9bf323a82",
+        "android_client_info": {
+          "package_name": "com.example.tip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048860986791-oirevroc84kpao5cl3je8687n6manan0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQF9vTexpoU3ZJE-kzoPmGbbZV_pPGSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048860986791-oirevroc84kpao5cl3je8687n6manan0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

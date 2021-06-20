@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TIP.iml" filepath="$PROJECT_DIR$/.idea/modules/TIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TIP.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TIP.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv343/TIP.opencv343.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv343/TIP.opencv343.iml" />
+    </modules>
+  </component>
+</project>
