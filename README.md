@@ -31,4 +31,7 @@ In this module we use firebase as a database which is used to store all images. 
 
 In this module we use SVM model to get the recognized gesture and convert it into text. Here the dataset is created and converted to <a href="https://raw.githubusercontent.com/futureeinstein/Technology-For-Impaired-People/master/app/src/main/res/raw/trained.xml" target="_blank">vectors</a> which makes it more reliable and helpful to communicate easily.
 
+![WhatsApp Image 2021-06-25 at 12 29 22 AM](https://user-images.githubusercontent.com/30021204/123318160-89bc9380-d54c-11eb-8e2f-ee47210ea24e.jpeg)
+
+
 
