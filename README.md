@@ -8,8 +8,8 @@ Android studio
 
 # Language
 
-*Java 
-*Python
+* Java 
+* Python
 
 # Technology
 
