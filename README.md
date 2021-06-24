@@ -1,6 +1,6 @@
 # Technology-For-Impaired-People
 
-Sign languages (also known as signed languages) are languages that use the visual-manual modality to convey meaning. Sign languages are expressed through manual articulations in combination with non-manual elements. Sign languages are full-fledged natural languages with their own grammar and lexicon. Sign languages are not universal and they are not mutually intelligible with each other therefore we use certain translators to understand every gestures. This project is used for translation sign language to text and text to sign language.
+Sign languages (also known as signed languages) are languages that use the visual-manual modality to convey meaning. Sign languages are expressed through manual articulations in combination with non-manual elements. Sign languages are full-fledged natural languages with their own grammar and lexicon. Sign languages are not universal and they are not mutually intelligible with each other therefore we use certain translators to understand every gestures. This application is used for translation sign language to text and text to sign language.
 
 # Prerequisites
 
@@ -22,4 +22,11 @@ Firebase
 # Modules
 
 <h3>Module 1: Text to gesture</h3>
+
+In this module we use firebase as a database which is used to store all images. The user would type any text he want to convert in sign. This module will search that text in <a href="https://console.firebase.google.com/u/0/project/tipapplication-5e879/overview" target="_blank">database</a> and retrive the desired output.
+
+<h3>Module 2: Gesture to text</h3>
+
+In this module we use SVM model to get the recognized gesture and convert it into text. Here the dataset is created and converted to <a href="doc:trained.xml" target="_blank">vectors</a> which makes it more reliable and helpful to communicate easily.
+
 
