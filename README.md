@@ -27,6 +27,6 @@ In this module we use firebase as a database which is used to store all images. 
 
 <h3>Module 2: Gesture to text</h3>
 
-In this module we use SVM model to get the recognized gesture and convert it into text. Here the dataset is created and converted to <a href="doc:trained.xml" target="_blank">vectors</a> which makes it more reliable and helpful to communicate easily.
+In this module we use SVM model to get the recognized gesture and convert it into text. Here the dataset is created and converted to <a href="https://raw.githubusercontent.com/futureeinstein/Technology-For-Impaired-People/master/app/src/main/res/raw/trained.xml" target="_blank">vectors</a> which makes it more reliable and helpful to communicate easily.
 
 
