@@ -21,5 +21,5 @@ Firebase
 
 # Modules
 
-<h1>Module 1: Text to gesture</h1>
+<h3>Module 1: Text to gesture</h3>
 
