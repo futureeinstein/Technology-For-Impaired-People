@@ -23,7 +23,7 @@ Firebase
 
 <h3>Module 1: Text to gesture</h3>
 
-In this module we use firebase as a database which is used to store all images. The user would type any text he want to convert in sign. This module will search that text in <a href="https://console.firebase.google.com/u/0/project/tipapplication-5e879/overview" target="_blank">database</a> and retrive the desired output.
+In this module we use firebase as a database which is used to store all images. The user would type any text he want to convert in sign. This module will search that text in <a href="https://console.firebase.google.com/u/0/project/tipapplication-5e879/overview" target="_blank">database</a> and retrieve the desired output.
 
 ![WhatsApp Image 2021-06-25 at 12 21 48 AM](https://user-images.githubusercontent.com/30021204/123317706-eff4e680-d54b-11eb-94c2-8ba3acb4aaeb.jpeg)
 
